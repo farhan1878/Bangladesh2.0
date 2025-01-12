@@ -71,3 +71,17 @@ background-color: #05612a;color: aliceblue;padding: 11px 20px;
 .card-by{background-color: #f4ac03;color: aliceblue;padding: 11px 20px;}
 .card-by:hover{background-color: red;}
 .card-div{margin: 80px 160px 32px 160px;}
+/* news */
+.july{display: flex;flex-direction: row-reverse;
+background-color: #C6E4D6; gap: 32px;border-radius: 24px;
+margin: 48px;}
+.img1{border-radius: 24px;} 
+/* cant fix the img */
+.may{display: flex;
+    background-color: #C6E4D6; gap: 32px;border-radius: 24px;
+    margin: 48px;}
+    .may-div{padding: 48px;}
+    .new{margin-inline-start: 160px;
+        margin-inline-end: 160px;
+        gap: 24px}
+
