@@ -84,4 +84,16 @@ margin: 48px;}
     .new{margin-inline-start: 160px;
         margin-inline-end: 160px;
         gap: 24px}
+        /* donate today */
+        .donate{text-align: center;font-size: 40px;margin-bottom: 24px;}
+    .donate-p{text-align: center;margin: 40px 160px 32px 160px;}
+    .taka{display: flex;font-weight: bold;font-size: 40px;gap: 24px;justify-content: space-around;padding-right: 150px;
+    padding-left: 150px;}
+    .tk{background-color:whitesmoke;border-radius: 16px; padding: ;}
+    .tk:hover{background-color: #09A15C;}
+.form{text-align: center;margin: 32px 300px 44px 300px;box-sizing: content-box;}
+/* tried my best but cant fix the form. */
+.button-tk{text-align: center;padding: 20px;color: #006A50;}
+.bt-tk2{background-color: #006A50;}
+.bt-tk2:hover{background-color: red;}
 
