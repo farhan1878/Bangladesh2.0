@@ -1,0 +1,48 @@
+.first-button{
+padding: 15px 30px 15px 30px;
+color: #006A50;
+background-color: white;
+ font-weight: 600;
+font-size: 18px;
+text-align: center;
+text-decoration: none;
+border-radius: 8px;
+border-color: #006A50;
+padding-bottom: 15px;
+}
+.first-sec{
+    padding-bottom: 16px;
+}
+/* problem: cant give broder line */
+.first-button:hover{background-color: rgb(247, 129, 127);}
+.first-sec{
+    display: flex;
+    justify-content: space-around;
+}
+/* banner */
+.hero-head{
+    font-weight: 200;
+    color: #0E0E0E;
+}
+.hero-p{
+    font-weight: bold;
+    font-size: 56px;
+}
+.second-btn:hover{background-color: rgb(184, 48, 48);}
+.second-btn{
+background-color: #006A50 ;
+color: white;
+padding: 17px 34px;
+border-radius: 8px;
+}
+.hero-div{
+    margin-top: 117px;
+    margin-bottom: 117px;
+    margin-left: 60px;
+}
+.hero{display: flex;
+background-color: #C6E4D6;
+margin-left: 118px;
+margin-right: 118px;
+
+text-align: left;}
