@@ -8,7 +8,6 @@ text-align: center;
 text-decoration: none;
 border-radius: 8px;
 border-color: #006A50;
-padding-bottom: 15px;
 }
 .first-sec{
     padding-bottom: 16px;
@@ -24,6 +23,7 @@ padding-bottom: 15px;
 .hero-head{
     font-weight: 200;
     color: #0E0E0E;
+    font-size: 24;
 }
 .hero-p{
     font-weight: bold;
@@ -92,8 +92,19 @@ margin: 48px;}
     .tk{background-color:whitesmoke;border-radius: 16px; padding: ;}
     .tk:hover{background-color: #09A15C;}
 .form{text-align: center;margin: 32px 300px 44px 300px;box-sizing: content-box;}
+#ant-tk{text-align: center;width: 600px;height: 55px; border-radius: 8px;}
 /* tried my best but cant fix the form. */
-.button-tk{text-align: center;padding: 20px;color: #006A50;}
-.bt-tk2{background-color: #006A50;}
-.bt-tk2:hover{background-color: red;}
+.done{ text-decoration: none;padding: 20px;color: #cee3de;
+margin-left: 564px;
+border-radius: 8px;}
+.done{background-color: #006A50;}
+.done:hover{background-color: red;}
+/* quote sec */
+.yunus{background-color:whitesmoke;
+background-image: url('../assets/quote-bg.png');
+background-repeat: no-repeat;margin: 32px 160px 80px 160px;border-radius: 16px;padding: 48px 24px;}
+.donate-news{background-color: #C6E4D6;text-align: center;border-radius: 24px;margin: 80px 160px;padding: 80px 0px;}
+
+#input-e{width: 600px;height: 50px;text-align: center;border-radius: 8px;}
+
 
